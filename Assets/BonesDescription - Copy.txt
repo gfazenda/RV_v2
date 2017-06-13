@@ -1,0 +1,70 @@
+Name: skull 
+ID: 0
+Description:The skull is made up of the cranium and mandible. 
+the cranium protects the brain and the mandible forms the lower jaw. 
+It is the largest and strongest bone in our face. The mandible is the movable part of the skull.
+##End
+Name: spine
+ID: 1
+Description:The spine is made up of 26 vertebrae. The top one is the atlas and 
+the bottom one is the coccyx. The vertebrae protect the spinal cord.
+##End
+Name: scapula
+ID: 2
+Description:The scapula are thin, flattened, triangular bones is found 
+on the back of the shoulder area. The scapula connects 
+the clavicle to the humerus. The scapula is commonly called the "shoulder blade."
+##End
+Name: clavicle
+ID: 3
+Description:The clavicle is more commonly known as the collarbone. The clavicle connects with the scapula and the sternum. The clavicle is the most frequently broken bone in the body.
+##End
+Name: ribcage
+ID: 4
+Description:You have twelve pairs of ribs. In the front of your body they attach
+to your sternum with flexible cartilage. In the back of your body they connect
+with the vertebrae. Your ribs are a bony cage that protects your heart and lungs.
+##End
+Name: humerus
+ID: 5
+Description:The humerus is the largest bone in the upper limb (arm). 
+Its smooth, ball-like head fits into the scapula and forms our 
+"ball and socket" shoulder joint.
+##End
+Name: radius,ulna
+ID: 6
+Description:radius-
+The radius is thinner near the elbow and gets thicker with a bulge near the wrist.
+- ulna
+The ulna is a long thin bone of the forearm. The top "wrench-like" end of the ulna is larger that the small, rounded end. It is next to the radius in the lower arm.
+##End
+Name: hand
+ID: 7
+Description:The hand is made up of carpals, metacarpals and phalanges. Carpals are bones that make up the wrist joint. There are eight carpal bones in each wrist that are small and glide against each other so that we can move our wrists in different directions. Metacarpals are bones of the hand that end at your knuckles. Phalanges are better known as your fingers and toes. You have 14 phalange bones in each hand and 14 in each foot.
+##End
+Name: pelvis
+ID: 8
+Description:Your pelvis is your hip bones. they contain ball-and-socket joints 
+for the femur and allow a wide range of movement.
+##End
+Name: femur
+ID: 9
+Description:Is the largest bone in the body. 
+The femur is the longest, strongest, and heaviest bone in the 
+body and supports much of our body weight.
+##End
+Name: tibia,fibula
+ID: 10 
+Description:- tibia:
+The tibia is the second largest bone in the skeleton and is found in the lower leg. The Tibia is very large at the top where it connects with the femur at the knee joint.
+- fibula:
+The fibula is a long thin pin-like bone is found on the outside of the tibia. The fibula's main job is to provide sites for muscles to attach. It also acts as a brace and provides support for the tibia.
+##End
+Name: foot
+ID: 11
+Description:The foot is made up of tarsals, metatarsals and phalanges. 
+Tarsals are the bones in your ankle. There are seven tarsal bones that allow for
+movement in the foot. Metatarsals are bones of the foot. 
+There are five metatarsals. Phalanges are better known as your fingers and toes. 
+You have 14 phalange bones in each hand and 14 in each foot
+##End

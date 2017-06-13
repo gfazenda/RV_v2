@@ -1,0 +1,70 @@
+Nome: crânio
+ID: 0
+Descrição: O crânio é composto de crânio e mandíbula.
+O crânio protege o cérebro e a mandíbula forma a mandíbula inferior.
+É o maior e mais forte osso em nosso rosto. A mandíbula é a parte móvel do crânio.
+##End
+Nome: Coluna Vertebral
+ID: 1
+Descrição: A coluna vertebral é composta de 26 vértebras. O topo é o atlas e
+O fundo é o cóccix. As vértebras protegem a medula espinhal.
+##End
+Nome: escápula
+ID: 2
+Descrição: A escápula é fina, achatada, os ossos triangulares é encontrado
+Na parte de trás da área do ombro. A escápula conecta-se
+A clavícula ao úmero. A escápula é comumente chamada de "omoplata".
+##End
+Nome: clavícula
+ID: 3
+Descrição: A clavícula é mais comumente conhecida como clavícula. A clavícula se conecta com a escápula eo esterno. A clavícula é o osso mais quebrado do corpo.
+##End
+Nome: caixa toráxica
+ID: 4
+Descrição: Você tem doze pares de costelas. Na parte dianteira de seu corpo unem
+Para o seu esterno com cartilagem flexível. Na parte de trás do seu corpo eles se conectam
+Com as vértebras. Suas costelas são uma gaiola óssea que protege seu coração e pulmões.
+##End
+Nome: úmero
+ID: 5
+Descrição: O úmero é o maior osso do membro superior (braço).
+Sua cabeça suave e esférica encaixa-se na escápula e forma a nossa
+Articulação do ombro "bola e soquete".
+##End
+Nome: rádio, ulna
+ID: 6
+Descrição: rádio, 
+O rádio é mais fino perto do cotovelo e fica mais espesso com uma protuberância perto do pulso.
+Ulna
+O ulna é um osso longo e fino do antebraço. O topo "wrench-like" final do ulna é maior que o pequeno, arredondado final. É próximo ao raio no braço inferior.
+##End
+Nome: mão
+ID: 7
+Descrição: A mão é composta por carpais, metacarpos e falanges. Carpals são ossos que compõem a articulação do pulso. Existem oito ossos do carpo em cada pulso que são pequenos e deslizam uns contra os outros, para que possamos mover nossos pulsos em diferentes direções. Metacarpals são ossos da mão que terminam em seus knuckles. Falanges são mais conhecidos como seus dedos das mãos e dos pés. Você tem 14 ossos de falange em cada mão e 14 em cada pé.
+##End
+Nome: pelvis
+ID: 8
+Descrição: Sua pelve é seus ossos do quadril. Elas contêm juntas esféricas
+Para o fêmur e permitir uma ampla gama de movimento.
+##End
+Nome: femur
+ID: 9
+Descrição: É o maior osso do corpo.
+O fêmur é o osso mais longo, mais forte e mais pesado
+Corpo e suporta muito do nosso peso corporal.
+##End
+Nome: tibia, fíbula
+ID: 10
+Descrição: - tibia:
+A tíbia é o segundo maior osso do esqueleto e encontra-se na perna. O Tibia é muito grande no topo onde se conecta com o fêmur na articulação do joelho.
+- fíbula:
+A fíbula é um longo e fino pino-como osso é encontrado no exterior da tíbia. O trabalho principal da fíbula é fornecer locais para os músculos para anexar. Ele também atua como uma cinta e fornece suporte para a tíbia.
+##End
+Nome: pé
+ID: 11
+Descrição: O pé é constituído por tarsos, metatarsos e falanges.
+Tarsals são os ossos em seu tornozelo. Existem sete ossos do tarso que permitem
+Movimento no pé. Metatarsos são ossos do pé.
+Existem cinco metatarsos. Falanges são mais conhecidos como seus dedos das mãos e dos pés.
+Você tem 14 ossos de falange em cada mão e 14 em cada pé
+##End
